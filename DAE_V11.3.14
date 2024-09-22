@@ -104,7 +104,7 @@
 	"manifestPlusVersion": "1.2.1",
 	"url": "https://gitlab.com/tposney/dae",
 	"manifest": "https://raw.githubusercontent.com/michael-upton97/custom_fvtt_modules/refs/heads/main/DAE_V11.3.14",
-	"download": "https://gitlab.com/tposney/dae/-/blob/dndv3/package/dae-v11.3.15.zip",
+	"download": "https://gitlab.com/tposney/dae/raw/dndv3/package/dae-v11.3.14.zip",
 	"readme": "https://gitlab.com/tposney/dae/-/blob/v11/Readme.md",
 	"changelog": "https://gitlab.com/tposney/dae/-/blob/v11/Changelog.md",
 	"bugs": "https://gitlab.com/tposney/dae/-/issues",
